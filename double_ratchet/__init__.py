@@ -1,8 +1,5 @@
 """
-Double Ratchet Algorithm - Signal Protocol Implementation
-=========================================================
-A complete, advanced Python implementation of the Signal Double Ratchet Algorithm
-as specified in https://signal.org/docs/specifications/doubleratchet/
+this is an based on the signal double ratchet algorithm (implementatiion)
 
 Combines:
   - X3DH-style key agreement (via X25519 ECDH)
